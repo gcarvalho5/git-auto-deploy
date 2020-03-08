@@ -5,6 +5,7 @@
 * criar um subdominio, deploy.site.com
 * certificar que o nginx esta configurado para aceitar rotas da aplicacao
 * gerar a chave ssh do usuario que estiver rodando o nginx
+* aceitar o fingerprint do github, basta dar um ssh git@github.com, utilizando o usuario que esta rodando o nginx
 * adicionar a chave ao projeto no github
 * adicionar o endereco do webhook, site.com/webhook
 * nao utilizar o endereco https que o github distribui, utilizar o endereco git do github (ssh)
