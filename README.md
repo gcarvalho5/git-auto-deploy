@@ -1,13 +1,13 @@
 # git-auto-deploy
 
-Tutorial feito pelo tg
-precisa adicionar o pacote "twig/extensions": "*" la no comper.json
-criar um subdominio, deploy.site.com
-certificar que o nginx esta configurado para aceitar rotas da aplicacao
-gerar a chave ssh do usuario que estiver rodando o nginx
-adicionar a chave ao projeto no github
-adicionar o endereco do webhook, site.com/webhook
-nao utilizar o endereco https que o github distribui, utilizar o endereco git do github (ssh)
+#Tutorial feito pelo tg
+* precisa adicionar o pacote "twig/extensions": "*" la no comper.json
+* criar um subdominio, deploy.site.com
+* certificar que o nginx esta configurado para aceitar rotas da aplicacao
+* gerar a chave ssh do usuario que estiver rodando o nginx
+* adicionar a chave ao projeto no github
+* adicionar o endereco do webhook, site.com/webhook
+* nao utilizar o endereco https que o github distribui, utilizar o endereco git do github (ssh)
 
 
 
